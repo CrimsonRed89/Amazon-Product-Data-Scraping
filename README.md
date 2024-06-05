@@ -2,27 +2,27 @@
 Amazon Product Scrape Automation is a tool designed to simplify the process of extracting product names, descriptions, and prices from Amazon and exporting this data into a CSV or Excel file. This tool is particularly useful for e-commerce professionals, market researchers, and anyone who needs to gather product information quickly and efficiently.
 
 # Features
-## Product Name Extraction: 
+### Product Name Extraction: 
 Automatically retrieve the names of products listed on Amazon.
-## Description Retrieval: 
+### Description Retrieval: 
 Capture detailed product descriptions to understand the features and specifications.
-## Price Collection: 
+### Price Collection: 
 Extract the latest pricing information for accurate market analysis.
-## CSV/Excel Export: 
+### CSV/Excel Export: 
 Save the collected data in a structured CSV or Excel format for easy access and analysis.
 
 # Known Issues
-## Incomplete Data Extraction: 
+### Incomplete Data Extraction: 
 Occasionally, some product descriptions or prices might not be fully captured.
-## Performance: 
+### Performance: 
 The tool might be slower for a large number of products.
 
 # Future Improvements
-## Enhanced Error Handling: 
+### Enhanced Error Handling: 
 Improve the robustness of the script to handle various errors more gracefully.
-## Better Performance: 
+### Better Performance: 
 Optimize the extraction process for faster data retrieval.
-## Feature Expansion:
+### Feature Expansion:
 Add support for additional product details such as ratings, reviews, and images.
 
 # Contributing
